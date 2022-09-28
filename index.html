@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>CoderHouse - Proyecto Final - JavaScript 41570</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+      integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <nav class="navbar">
+          <a href="index.html" class="navbar-brand"><img src="images/logo.png" alt="brand logo" class="logo" /> DarkTower Anime Shop</a>
+          <button type="button" class="navbar-toggler">
+            <i class="fas fa-bars"></i>
+          </button>
+          <div class="navbar-collapse">
+            <ul>
+              <li><a href="#">Inicio</a></li>
+              <li><a href="#">Contacto</a></li>
+            </ul>
+          </div>
+
+          <div class="cart">
+            <button type="button" id="cart-btn">
+              <i class="fas fa-shopping-cart"></i>
+              <span id="cart-count-info"></span>
+            </button>
+
+            <div class="cart-container">
+              <div class="cart-list">
+
+              </div>
+
+              <div class="cart-total">
+                <h3>Total: $</h3>
+                <span id="cart-total-value"></span>
+              </div>
+            </div>
+          </div>
+        </nav>
+
+    </header>
+
+    <section class="products">
+      <div class="container">
+        <h2>Nuestros productos</h2>
+        <div class="product-list">
+
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <div class="container">
+        <div class="social-icons">
+          <a href="#">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+          <a href="#">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a href="#">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="#">
+            <i class="fab fa-youtube"></i>
+          </a>
+        </div>
+      </div>
+    </footer>
+
+    <script src="app.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+  </body>
+</html>

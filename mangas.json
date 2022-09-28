@@ -1,0 +1,21 @@
+[
+
+        { "name": "Jujutsu Kaisen", "volumen": 15, "price": 149.0, "imgSrc": "images/JJK15.jpg" },
+        { "name": "Chainsaw Man", "volumen": 10, "price": 126.0, "imgSrc": "images/CSM10.jpg" },
+        { "name": "Demon Slayer", "volumen": 23, "price": 187.0, "imgSrc": "images/DS23.jpg" },
+        { "name": "Hell's Paradise", "volumen": 9, "price": 133.0, "imgSrc": "images/HP09.jpg" },
+        { "name": "Tokyo Revengers", "volumen": 6, "price": 155.0, "imgSrc": "images/TR06.jpg" },
+        { "name": "Black Clover", "volumen": 29, "price": 175.0, "imgSrc": "images/BC29.jpg"},
+        { "name": "Claymore", "volumen": 17, "price": 163.0, "imgSrc": "images/CM17.jpg"},
+        { "name": "Nana", "volumen": 5, "price": 101.0, "imgSrc": "images/NN5.jpg"},
+        { "name": "Rooster Fighter", "volumen": 3, "price": 118.0, "imgSrc": "images/RF03.jpg"},
+        { "name": "Dragon Ball Super", "volumen": 18, "price": 198.0, "imgSrc": "images/DBS18.jpg"},
+        { "name": "One Piece", "volumen": 89, "price": 187.0, "imgSrc": "images/OP89.jpg"},
+        { "name": "Spy x Family", "volumen": 9, "price": 115.0, "imgSrc": "images/SP9.jpg"},
+        { "name": "Dorohedoro", "volumen": 12, "price": 126.0, "imgSrc": "images/DHD12.jpg"},
+        { "name": "Dr. Stone", "volumen": 20, "price": 143.0, "imgSrc": "images/DRS20.jpg"},
+        { "name": "Kaiju No. 8", "volumen": 3, "price": 139.0, "imgSrc": "images/KJ83.jpg"},
+        { "name": "Shaman King", "volumen": 16, "price": 111.0, "imgSrc": "images/SK16.jpg"},
+        { "name": "Hanako Kun", "volumen": 17, "price": 184.0, "imgSrc": "images/HK17.jpg"}
+]
+
